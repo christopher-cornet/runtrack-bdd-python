@@ -1,4 +1,4 @@
-select age from etudiants order by age desc;
+SELECT age FROM etudiants ORDER BY age DESC;
 
 age
 45

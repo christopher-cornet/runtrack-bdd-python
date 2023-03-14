@@ -1,4 +1,4 @@
-select * from etudiants where prenom LIKE 'b%';
+SELECT * FROM etudiants WHERE prenom LIKE 'b%';
 
 id	nom	prenom	age	email
 1	Spaghetti	Betty	23	betty.spaghetti@laplateforme.io

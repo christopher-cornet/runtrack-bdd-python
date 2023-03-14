@@ -1,4 +1,4 @@
-select * from etudiants where age BETWEEN 18 and 25;
+SELECT * FROM etudiants WHERE age BETWEEN 18 AND 25;
 
 id	nom	prenom	age	email
 1	Spaghetti	Betty	23	betty.spaghetti@laplateforme.io

@@ -1,4 +1,4 @@
-select age from etudiants order by age asc;
+SELECT age FROM etudiants ORDER BY age ASC;
 
 age
 16

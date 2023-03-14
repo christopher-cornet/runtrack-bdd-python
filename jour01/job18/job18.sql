@@ -1,1 +1,1 @@
-DELETE FROM etudiants WHERE prenom = 'John' and nom = 'Doe';
+DELETE FROM etudiants WHERE prenom = 'John' AND nom = 'Doe';
