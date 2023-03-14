@@ -1,0 +1,1 @@
+CREATE TABLE etudiants (id INT primary key AUTO_INCREMENT, nom VARCHAR(255), prenom VARCHAR(25), age INT, email VARCHAR(255));
